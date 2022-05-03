@@ -37,46 +37,8 @@
 - **Leituras**: [Data Science para Negócios](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726/ref=asc_df_8576089726/?tag=googleshopp00-20&linkCode=df0&hvadid=379708192683&hvpos=&hvnetw=g&hvrand=8668234030019075204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-398225631558&psc=1)
 
 ## Onde me encontrar:
-[<img align="left" alt="Linkedin" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](www.linkedin.com/in/vinicius-torres-05a35695)
+[<img align="left" alt="Linkedin" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vinicius-torres-05a35695/)
 
 [<img align="left" alt="Medium" width="40px" height="40px" src="https://www.svgrepo.com/show/5274/medium-size.svg" />](https://medium.com/@vini.guerra87)
 
 [<img align="left" alt="Kaggle" width="40px" height="35px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />](https://www.kaggle.com/vinitg96)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-
-
-
-
-
-
-<!--
-**vinitg96/vinitg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
