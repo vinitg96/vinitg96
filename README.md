@@ -31,9 +31,6 @@
 
 ## Atividades em andamento:
 - **Cursos**: [Business Analytics](https://www.datascienceacademy.com.br/course/anlise-de-dados-com-matlab) e [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
-- **Estudo Teórico**: [Estatística](https://www.youtube.com/watch?v=xxpc-HPKN28&t=2s)
-- **Estudo sobre tecnológia específica**: x
-- **Projetos**: Análise de rotatividade de clientes em empresas de telecomunicação e Criação de website para portifólio
 - **Leituras**: [Data Science para Negócios](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726/ref=asc_df_8576089726/?tag=googleshopp00-20&linkCode=df0&hvadid=379708192683&hvpos=&hvnetw=g&hvrand=8668234030019075204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-398225631558&psc=1)
 
 ## Onde me encontrar:
