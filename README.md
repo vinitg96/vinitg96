@@ -30,8 +30,8 @@
 
 
 ## Atividades em andamento:
-- **Cursos**: [Business Analytics](https://www.datascienceacademy.com.br/course/anlise-de-dados-com-matlab) e [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
-- **Leituras**: [Data Science para Negócios](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726/ref=asc_df_8576089726/?tag=googleshopp00-20&linkCode=df0&hvadid=379708192683&hvpos=&hvnetw=g&hvrand=8668234030019075204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-398225631558&psc=1)
+- **Cursos**: [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) e [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
+- **Leituras**: [Data Science para Negócios](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726/ref=asc_df_8576089726/?tag=googleshopp00-20&linkCode=df0&hvadid=379708192683&hvpos=&hvnetw=g&hvrand=8668234030019075204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-398225631558&psc=1), [Estatística básica](https://www.amazon.com.br/Estat%C3%ADstica-B%C3%A1sica-Wilton-Bussab/dp/8547220224/ref=asc_df_8547220224/?tag=googleshopp00-20&linkCode=df0&hvadid=379748610448&hvpos=&hvnetw=g&hvrand=2564063631667085644&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001625&hvtargid=pla-811770768458&psc=1) e [Manual Prático de Data Science](https://www.amazon.com.br/Manual-Pr%C3%A1tico-Science-Mario-Filho-ebook/dp/B08MTMSDRG).
 
 ## Onde me encontrar:
 [<img align="left" alt="Linkedin" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vinicius-torres-05a35695/)
