@@ -6,7 +6,7 @@
 ## Sobre mim:
 
 - :bowtie: Me chamo Vinicius, tenho 25 anos e moro em Recife-PE. 
-- :game_die: Atualmente curso graduação em Ciência de Dados e iniciar como estagiário de dados pela Healthbit em março de 2023.
+- :game_die: Atualmente curso graduação em Ciência de Dados e irei iniciar como estagiário de dados pela Healthbit em março de 2023.
 - :seedling: Sou formado em Ciências Biológicas e mestre em Genética, durante esse período trabalhei com análise de dados genômicos em plantas.
 - :leopard: Torço para o Sport Recife (Importante!)
 
